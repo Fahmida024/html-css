@@ -1,0 +1,33 @@
+li{
+ display: inline;  
+ margin-right: 15px;
+
+
+}
+
+ul{
+ text-align: right;
+ margin-top: 3%;
+ 
+}
+
+body{
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    background-color: #333333;
+    color: #C0C0C0;
+}
+
+#name1{
+    position:absolute;
+    left:40px;
+    font-size: 30px;
+    top:0vh;
+    
+}
+
+#name2{
+    position:absolute;
+    top:4vh;
+    left:40px;
+    font-size: 30px;
+}
